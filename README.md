@@ -60,4 +60,15 @@ A built-in personal coach that:
 
 ---
 
-##
+## 
+📁 Project Structure
+ai-life-coach/
+│
+├── app.py # Main Streamlit application
+│
+├── src/
+│ ├── agent.py # Core recommendation engine
+│ ├── memory.py # User memory + assistant context
+│ └── utils.py # Helper functions
+│
+└── assets/ # (Optional) images/screenshots

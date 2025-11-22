@@ -1,0 +1,28 @@
+{
+  "user_id": "anu001",
+  "name": "Anu Esanagiri",
+
+  "finance": {
+    "monthly_income": 50000,
+    "monthly_expenses": 32000,
+    "subscriptions": ["Netflix", "Spotify"]
+  },
+
+  "health": {
+    "steps_per_day": 3500,
+    "sleep_hours": 6,
+    "water_intake_liters": 1.5,
+    "stress_level": "high"
+  },
+
+  "learning": {
+    "current_skill": "Data Science",
+    "study_minutes_daily": 30,
+    "goal": "Get job in AI / ML"
+  },
+
+  "productivity": {
+    "tasks": ["study 30 min", "clean room", "drink water"],
+    "completed_today": 1
+  }
+}

@@ -1,0 +1,3253 @@
+{
+  "anu001": {
+    "health": [
+      {
+        "payload": {
+          "domain": "health",
+          "risk": "high",
+          "plan": [
+            "Walk 20 minutes daily",
+            "Follow a sleep-winddown routine",
+            "Track sleep for 2 weeks"
+          ],
+          "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+        }
+      },
+      {
+        "payload": {
+          "domain": "health",
+          "risk": "high",
+          "plan": [
+            "Walk 20 minutes daily",
+            "Follow a sleep-winddown routine",
+            "Track sleep for 2 weeks"
+          ],
+          "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+        }
+      },
+      {
+        "payload": {
+          "domain": "health",
+          "risk": "high",
+          "plan": [
+            "Walk 20 minutes daily",
+            "Follow a sleep-winddown routine",
+            "Track sleep for 2 weeks"
+          ],
+          "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+        }
+      },
+      {
+        "payload": {
+          "domain": "health",
+          "risk": "high",
+          "plan": [
+            "Walk 20 minutes daily",
+            "Follow a sleep-winddown routine",
+            "Track sleep for 2 weeks"
+          ],
+          "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+        }
+      },
+      {
+        "payload": {
+          "domain": "health",
+          "risk": "high",
+          "plan": [
+            "Walk 20 minutes daily",
+            "Follow a sleep-winddown routine",
+            "Track sleep for 2 weeks"
+          ],
+          "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+        }
+      }
+    ],
+    "finance": [
+      {
+        "payload": {
+          "domain": "finance",
+          "total": 32000,
+          "alert": null,
+          "plan": [
+            "No urgent action",
+            "Review subscriptions monthly"
+          ],
+          "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+        }
+      },
+      {
+        "payload": {
+          "domain": "finance",
+          "total": 32000,
+          "alert": null,
+          "plan": [
+            "No urgent action",
+            "Review subscriptions monthly"
+          ],
+          "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+        }
+      },
+      {
+        "payload": {
+          "domain": "finance",
+          "total": 32000,
+          "alert": null,
+          "plan": [
+            "No urgent action",
+            "Review subscriptions monthly"
+          ],
+          "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+        }
+      },
+      {
+        "payload": {
+          "domain": "finance",
+          "total": 32000,
+          "alert": null,
+          "plan": [
+            "No urgent action",
+            "Review subscriptions monthly"
+          ],
+          "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+        }
+      }
+    ],
+    "learning": [
+      {
+        "payload": {
+          "domain": "learning",
+          "risk": "high",
+          "plan": [
+            "Daily 15-min micro-lesson",
+            "Practice quiz every 3 days"
+          ],
+          "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+        }
+      },
+      {
+        "payload": {
+          "domain": "learning",
+          "risk": "high",
+          "plan": [
+            "Daily 15-min micro-lesson",
+            "Practice quiz every 3 days"
+          ],
+          "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+        }
+      },
+      {
+        "payload": {
+          "domain": "learning",
+          "risk": "high",
+          "plan": [
+            "Daily 15-min micro-lesson",
+            "Practice quiz every 3 days"
+          ],
+          "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+        }
+      },
+      {
+        "payload": {
+          "domain": "learning",
+          "risk": "high",
+          "plan": [
+            "Daily 15-min micro-lesson",
+            "Practice quiz every 3 days"
+          ],
+          "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+        }
+      }
+    ],
+    "productivity": [
+      {
+        "payload": {
+          "domain": "productivity",
+          "scheduled": {
+            "status": "ok",
+            "event": {
+              "user": "anu001",
+              "title": "study 30 min",
+              "start": "TBD",
+              "duration": 30
+            }
+          },
+          "message": "Scheduled: study 30 min"
+        }
+      },
+      {
+        "payload": {
+          "domain": "productivity",
+          "scheduled": {
+            "status": "ok",
+            "event": {
+              "user": "anu001",
+              "title": "study 30 min",
+              "start": "TBD",
+              "duration": 30
+            }
+          },
+          "message": "Scheduled: study 30 min"
+        }
+      },
+      {
+        "payload": {
+          "domain": "productivity",
+          "scheduled": {
+            "status": "ok",
+            "event": {
+              "user": "anu001",
+              "title": "study 30 min",
+              "start": "TBD",
+              "duration": 30
+            }
+          },
+          "message": "Scheduled: study 30 min"
+        }
+      }
+    ],
+    "email_sent": [
+      {
+        "payload": {
+          "to": "user@example.com",
+          "subject": "AI Life OS \u2014 Recommended Actions"
+        }
+      },
+      {
+        "payload": {
+          "to": "user@example.com",
+          "subject": "AI Life OS \u2014 Recommended Actions"
+        }
+      },
+      {
+        "payload": {
+          "to": "user@example.com",
+          "subject": "AI Life OS \u2014 Recommended Actions"
+        }
+      }
+    ],
+    "daily_summary": [
+      {
+        "payload": {
+          "health": {
+            "domain": "health",
+            "risk": "high",
+            "plan": [
+              "Walk 20 minutes daily",
+              "Follow a sleep-winddown routine",
+              "Track sleep for 2 weeks"
+            ],
+            "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+          },
+          "finance": {
+            "domain": "finance",
+            "total": 32000,
+            "alert": null,
+            "plan": [
+              "No urgent action",
+              "Review subscriptions monthly"
+            ],
+            "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+          },
+          "learning": {
+            "domain": "learning",
+            "risk": "high",
+            "plan": [
+              "Daily 15-min micro-lesson",
+              "Practice quiz every 3 days"
+            ],
+            "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+          },
+          "productivity": {
+            "domain": "productivity",
+            "scheduled": {
+              "status": "ok",
+              "event": {
+                "user": "anu001",
+                "title": "study 30 min",
+                "start": "TBD",
+                "duration": 30
+              }
+            },
+            "message": "Scheduled: study 30 min"
+          }
+        }
+      },
+      {
+        "payload": {
+          "health": {
+            "domain": "health",
+            "risk": "high",
+            "plan": [
+              "Walk 20 minutes daily",
+              "Follow a sleep-winddown routine",
+              "Track sleep for 2 weeks"
+            ],
+            "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+          },
+          "finance": {
+            "domain": "finance",
+            "total": 32000,
+            "alert": null,
+            "plan": [
+              "No urgent action",
+              "Review subscriptions monthly"
+            ],
+            "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+          },
+          "learning": {
+            "domain": "learning",
+            "risk": "high",
+            "plan": [
+              "Daily 15-min micro-lesson",
+              "Practice quiz every 3 days"
+            ],
+            "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+          },
+          "productivity": {
+            "domain": "productivity",
+            "scheduled": {
+              "status": "ok",
+              "event": {
+                "user": "anu001",
+                "title": "study 30 min",
+                "start": "TBD",
+                "duration": 30
+              }
+            },
+            "message": "Scheduled: study 30 min"
+          }
+        }
+      },
+      {
+        "payload": {
+          "health": {
+            "domain": "health",
+            "risk": "high",
+            "plan": [
+              "Walk 20 minutes daily",
+              "Follow a sleep-winddown routine",
+              "Track sleep for 2 weeks"
+            ],
+            "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+          },
+          "finance": {
+            "domain": "finance",
+            "total": 32000,
+            "alert": null,
+            "plan": [
+              "No urgent action",
+              "Review subscriptions monthly"
+            ],
+            "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+          },
+          "learning": {
+            "domain": "learning",
+            "risk": "high",
+            "plan": [
+              "Daily 15-min micro-lesson",
+              "Practice quiz every 3 days"
+            ],
+            "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+          },
+          "productivity": {
+            "domain": "productivity",
+            "scheduled": {
+              "status": "ok",
+              "event": {
+                "user": "anu001",
+                "title": "study 30 min",
+                "start": "TBD",
+                "duration": 30
+              }
+            },
+            "message": "Scheduled: study 30 min"
+          }
+        }
+      }
+    ]
+  },
+  "user001": {
+    "health": [
+      {
+        "payload": {
+          "domain": "health",
+          "risk": "high",
+          "plan": [
+            "Walk 20 minutes daily",
+            "Follow a sleep-winddown routine",
+            "Track sleep for 2 weeks"
+          ],
+          "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+        }
+      },
+      {
+        "payload": {
+          "domain": "health",
+          "risk": "high",
+          "plan": [
+            "Walk 20 minutes daily",
+            "Follow a sleep-winddown routine",
+            "Track sleep for 2 weeks"
+          ],
+          "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+        }
+      },
+      {
+        "payload": {
+          "domain": "health",
+          "risk": "high",
+          "plan": [
+            "Walk 20 minutes daily",
+            "Follow a sleep-winddown routine",
+            "Track sleep for 2 weeks"
+          ],
+          "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+        }
+      },
+      {
+        "payload": {
+          "domain": "health",
+          "risk": "high",
+          "plan": [
+            "Walk 20 minutes daily",
+            "Follow a sleep-winddown routine",
+            "Track sleep for 2 weeks"
+          ],
+          "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+        }
+      },
+      {
+        "payload": {
+          "domain": "health",
+          "risk": "high",
+          "plan": [
+            "Walk 20 minutes daily",
+            "Follow a sleep-winddown routine",
+            "Track sleep for 2 weeks"
+          ],
+          "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+        }
+      },
+      {
+        "payload": {
+          "domain": "health",
+          "risk": "high",
+          "plan": [
+            "Walk 20 minutes daily",
+            "Follow a sleep-winddown routine",
+            "Track sleep for 2 weeks"
+          ],
+          "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+        }
+      },
+      {
+        "payload": {
+          "domain": "health",
+          "risk": "high",
+          "plan": [
+            "Walk 20 minutes daily",
+            "Follow a sleep-winddown routine",
+            "Track sleep for 2 weeks"
+          ],
+          "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+        }
+      },
+      {
+        "payload": {
+          "domain": "health",
+          "risk": "high",
+          "plan": [
+            "Walk 20 minutes daily",
+            "Follow a sleep-winddown routine",
+            "Track sleep for 2 weeks"
+          ],
+          "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+        }
+      },
+      {
+        "payload": {
+          "domain": "health",
+          "risk": "high",
+          "plan": [
+            "Walk 20 minutes daily",
+            "Follow a sleep-winddown routine",
+            "Track sleep for 2 weeks"
+          ],
+          "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+        }
+      },
+      {
+        "payload": {
+          "domain": "health",
+          "risk": "high",
+          "plan": [
+            "Walk 20 minutes daily",
+            "Follow a sleep-winddown routine",
+            "Track sleep for 2 weeks"
+          ],
+          "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+        }
+      },
+      {
+        "payload": {
+          "domain": "health",
+          "risk": "high",
+          "plan": [
+            "Walk 20 minutes daily",
+            "Follow a sleep-winddown routine",
+            "Track sleep for 2 weeks"
+          ],
+          "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+        }
+      },
+      {
+        "payload": {
+          "domain": "health",
+          "risk": "high",
+          "plan": [
+            "Walk 20 minutes daily",
+            "Follow a sleep-winddown routine",
+            "Track sleep for 2 weeks"
+          ],
+          "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+        }
+      },
+      {
+        "payload": {
+          "domain": "health",
+          "risk": "high",
+          "plan": [
+            "Walk 20 minutes daily",
+            "Follow a sleep-winddown routine",
+            "Track sleep for 2 weeks"
+          ],
+          "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+        }
+      },
+      {
+        "payload": {
+          "domain": "health",
+          "risk": "high",
+          "plan": [
+            "Walk 20 minutes daily",
+            "Follow a sleep-winddown routine",
+            "Track sleep for 2 weeks"
+          ],
+          "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+        }
+      },
+      {
+        "payload": {
+          "domain": "health",
+          "risk": "high",
+          "plan": [
+            "Walk 20 minutes daily",
+            "Follow a sleep-winddown routine",
+            "Track sleep for 2 weeks"
+          ],
+          "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+        }
+      },
+      {
+        "payload": {
+          "domain": "health",
+          "risk": "high",
+          "plan": [
+            "Walk 20 minutes daily",
+            "Follow a sleep-winddown routine",
+            "Track sleep for 2 weeks"
+          ],
+          "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+        }
+      },
+      {
+        "payload": {
+          "domain": "health",
+          "risk": "high",
+          "plan": [
+            "Walk 20 minutes daily",
+            "Follow a sleep-winddown routine",
+            "Track sleep for 2 weeks"
+          ],
+          "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+        }
+      },
+      {
+        "payload": {
+          "domain": "health",
+          "risk": "high",
+          "plan": [
+            "Walk 20 minutes daily",
+            "Follow a sleep-winddown routine",
+            "Track sleep for 2 weeks"
+          ],
+          "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+        }
+      },
+      {
+        "payload": {
+          "domain": "health",
+          "risk": "high",
+          "plan": [
+            "Walk 20 minutes daily",
+            "Follow a sleep-winddown routine",
+            "Track sleep for 2 weeks"
+          ],
+          "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+        }
+      },
+      {
+        "payload": {
+          "domain": "health",
+          "risk": "high",
+          "plan": [
+            "Walk 20 minutes daily",
+            "Follow a sleep-winddown routine",
+            "Track sleep for 2 weeks"
+          ],
+          "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+        }
+      },
+      {
+        "payload": {
+          "domain": "health",
+          "risk": "high",
+          "plan": [
+            "Walk 20 minutes daily",
+            "Follow a sleep-winddown routine",
+            "Track sleep for 2 weeks"
+          ],
+          "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+        }
+      },
+      {
+        "payload": {
+          "domain": "health",
+          "risk": "high",
+          "plan": [
+            "Walk 20 minutes daily",
+            "Follow a sleep-winddown routine",
+            "Track sleep for 2 weeks"
+          ],
+          "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+        }
+      },
+      {
+        "payload": {
+          "domain": "health",
+          "risk": "high",
+          "plan": [
+            "Walk 20 minutes daily",
+            "Follow a sleep-winddown routine",
+            "Track sleep for 2 weeks"
+          ],
+          "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+        }
+      },
+      {
+        "payload": {
+          "domain": "health",
+          "risk": "high",
+          "plan": [
+            "Walk 20 minutes daily",
+            "Follow a sleep-winddown routine",
+            "Track sleep for 2 weeks"
+          ],
+          "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+        }
+      },
+      {
+        "payload": {
+          "domain": "health",
+          "risk": "high",
+          "plan": [
+            "Walk 20 minutes daily",
+            "Follow a sleep-winddown routine",
+            "Track sleep for 2 weeks"
+          ],
+          "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+        }
+      },
+      {
+        "payload": {
+          "domain": "health",
+          "risk": "high",
+          "plan": [
+            "Walk 20 minutes daily",
+            "Follow a sleep-winddown routine",
+            "Track sleep for 2 weeks"
+          ],
+          "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+        }
+      },
+      {
+        "payload": {
+          "domain": "health",
+          "risk": "high",
+          "plan": [
+            "Walk 20 minutes daily",
+            "Follow a sleep-winddown routine",
+            "Track sleep for 2 weeks"
+          ],
+          "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+        }
+      }
+    ],
+    "finance": [
+      {
+        "payload": {
+          "domain": "finance",
+          "total": 30000,
+          "alert": null,
+          "plan": [
+            "No urgent action",
+            "Review subscriptions monthly"
+          ],
+          "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+        }
+      },
+      {
+        "payload": {
+          "domain": "finance",
+          "total": 30000,
+          "alert": null,
+          "plan": [
+            "No urgent action",
+            "Review subscriptions monthly"
+          ],
+          "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+        }
+      },
+      {
+        "payload": {
+          "domain": "finance",
+          "total": 30000,
+          "alert": null,
+          "plan": [
+            "No urgent action",
+            "Review subscriptions monthly"
+          ],
+          "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+        }
+      },
+      {
+        "payload": {
+          "domain": "finance",
+          "total": 30000,
+          "alert": null,
+          "plan": [
+            "No urgent action",
+            "Review subscriptions monthly"
+          ],
+          "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+        }
+      },
+      {
+        "payload": {
+          "domain": "finance",
+          "total": 30000,
+          "alert": null,
+          "plan": [
+            "No urgent action",
+            "Review subscriptions monthly"
+          ],
+          "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+        }
+      },
+      {
+        "payload": {
+          "domain": "finance",
+          "total": 30000,
+          "alert": null,
+          "plan": [
+            "No urgent action",
+            "Review subscriptions monthly"
+          ],
+          "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+        }
+      },
+      {
+        "payload": {
+          "domain": "finance",
+          "total": 30000,
+          "alert": null,
+          "plan": [
+            "No urgent action",
+            "Review subscriptions monthly"
+          ],
+          "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+        }
+      },
+      {
+        "payload": {
+          "domain": "finance",
+          "total": 30000,
+          "alert": null,
+          "plan": [
+            "No urgent action",
+            "Review subscriptions monthly"
+          ],
+          "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+        }
+      },
+      {
+        "payload": {
+          "domain": "finance",
+          "total": 30000,
+          "alert": null,
+          "plan": [
+            "No urgent action",
+            "Review subscriptions monthly"
+          ],
+          "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+        }
+      },
+      {
+        "payload": {
+          "domain": "finance",
+          "total": 30000,
+          "alert": null,
+          "plan": [
+            "No urgent action",
+            "Review subscriptions monthly"
+          ],
+          "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+        }
+      },
+      {
+        "payload": {
+          "domain": "finance",
+          "total": 30000,
+          "alert": null,
+          "plan": [
+            "No urgent action",
+            "Review subscriptions monthly"
+          ],
+          "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+        }
+      },
+      {
+        "payload": {
+          "domain": "finance",
+          "total": 30000,
+          "alert": null,
+          "plan": [
+            "No urgent action",
+            "Review subscriptions monthly"
+          ],
+          "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+        }
+      },
+      {
+        "payload": {
+          "domain": "finance",
+          "total": 30000,
+          "alert": null,
+          "plan": [
+            "No urgent action",
+            "Review subscriptions monthly"
+          ],
+          "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+        }
+      },
+      {
+        "payload": {
+          "domain": "finance",
+          "total": 30000,
+          "alert": null,
+          "plan": [
+            "No urgent action",
+            "Review subscriptions monthly"
+          ],
+          "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+        }
+      },
+      {
+        "payload": {
+          "domain": "finance",
+          "total": 0,
+          "alert": null,
+          "plan": [
+            "No urgent action",
+            "Review subscriptions monthly"
+          ],
+          "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+        }
+      },
+      {
+        "payload": {
+          "domain": "finance",
+          "total": 30000,
+          "alert": null,
+          "plan": [
+            "No urgent action",
+            "Review subscriptions monthly"
+          ],
+          "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+        }
+      },
+      {
+        "payload": {
+          "domain": "finance",
+          "total": 30000,
+          "alert": null,
+          "plan": [
+            "No urgent action",
+            "Review subscriptions monthly"
+          ],
+          "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+        }
+      },
+      {
+        "payload": {
+          "domain": "finance",
+          "total": 20000,
+          "alert": null,
+          "plan": [
+            "No urgent action",
+            "Review subscriptions monthly"
+          ],
+          "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+        }
+      },
+      {
+        "payload": {
+          "domain": "finance",
+          "total": 20000,
+          "alert": null,
+          "plan": [
+            "No urgent action",
+            "Review subscriptions monthly"
+          ],
+          "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+        }
+      },
+      {
+        "payload": {
+          "domain": "finance",
+          "total": 0,
+          "alert": null,
+          "plan": [
+            "No urgent action",
+            "Review subscriptions monthly"
+          ],
+          "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+        }
+      },
+      {
+        "payload": {
+          "domain": "finance",
+          "total": 40000,
+          "alert": null,
+          "plan": [
+            "No urgent action",
+            "Review subscriptions monthly"
+          ],
+          "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+        }
+      },
+      {
+        "payload": {
+          "domain": "finance",
+          "total": 40000,
+          "alert": null,
+          "plan": [
+            "No urgent action",
+            "Review subscriptions monthly"
+          ],
+          "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+        }
+      },
+      {
+        "payload": {
+          "domain": "finance",
+          "total": 25000,
+          "alert": null,
+          "plan": [
+            "No urgent action",
+            "Review subscriptions monthly"
+          ],
+          "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+        }
+      },
+      {
+        "payload": {
+          "domain": "finance",
+          "total": 25000,
+          "alert": null,
+          "plan": [
+            "No urgent action",
+            "Review subscriptions monthly"
+          ],
+          "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+        }
+      },
+      {
+        "payload": {
+          "domain": "finance",
+          "total": 40000,
+          "alert": null,
+          "plan": [
+            "No urgent action",
+            "Review subscriptions monthly"
+          ],
+          "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+        }
+      },
+      {
+        "payload": {
+          "domain": "finance",
+          "total": 40000,
+          "alert": null,
+          "plan": [
+            "No urgent action",
+            "Review subscriptions monthly"
+          ],
+          "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+        }
+      },
+      {
+        "payload": {
+          "domain": "finance",
+          "total": 40000,
+          "alert": null,
+          "plan": [
+            "No urgent action",
+            "Review subscriptions monthly"
+          ],
+          "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+        }
+      }
+    ],
+    "learning": [
+      {
+        "payload": {
+          "domain": "learning",
+          "risk": "high",
+          "plan": [
+            "Daily 15-min micro-lesson",
+            "Practice quiz every 3 days"
+          ],
+          "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+        }
+      },
+      {
+        "payload": {
+          "domain": "learning",
+          "risk": "high",
+          "plan": [
+            "Daily 15-min micro-lesson",
+            "Practice quiz every 3 days"
+          ],
+          "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+        }
+      },
+      {
+        "payload": {
+          "domain": "learning",
+          "risk": "high",
+          "plan": [
+            "Daily 15-min micro-lesson",
+            "Practice quiz every 3 days"
+          ],
+          "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+        }
+      },
+      {
+        "payload": {
+          "domain": "learning",
+          "risk": "high",
+          "plan": [
+            "Daily 15-min micro-lesson",
+            "Practice quiz every 3 days"
+          ],
+          "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+        }
+      },
+      {
+        "payload": {
+          "domain": "learning",
+          "risk": "high",
+          "plan": [
+            "Daily 15-min micro-lesson",
+            "Practice quiz every 3 days"
+          ],
+          "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+        }
+      },
+      {
+        "payload": {
+          "domain": "learning",
+          "risk": "high",
+          "plan": [
+            "Daily 15-min micro-lesson",
+            "Practice quiz every 3 days"
+          ],
+          "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+        }
+      },
+      {
+        "payload": {
+          "domain": "learning",
+          "risk": "high",
+          "plan": [
+            "Daily 15-min micro-lesson",
+            "Practice quiz every 3 days"
+          ],
+          "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+        }
+      },
+      {
+        "payload": {
+          "domain": "learning",
+          "risk": "high",
+          "plan": [
+            "Daily 15-min micro-lesson",
+            "Practice quiz every 3 days"
+          ],
+          "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+        }
+      },
+      {
+        "payload": {
+          "domain": "learning",
+          "risk": "high",
+          "plan": [
+            "Daily 15-min micro-lesson",
+            "Practice quiz every 3 days"
+          ],
+          "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+        }
+      },
+      {
+        "payload": {
+          "domain": "learning",
+          "risk": "high",
+          "plan": [
+            "Daily 15-min micro-lesson",
+            "Practice quiz every 3 days"
+          ],
+          "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+        }
+      },
+      {
+        "payload": {
+          "domain": "learning",
+          "risk": "high",
+          "plan": [
+            "Daily 15-min micro-lesson",
+            "Practice quiz every 3 days"
+          ],
+          "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+        }
+      },
+      {
+        "payload": {
+          "domain": "learning",
+          "risk": "high",
+          "plan": [
+            "Daily 15-min micro-lesson",
+            "Practice quiz every 3 days"
+          ],
+          "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+        }
+      },
+      {
+        "payload": {
+          "domain": "learning",
+          "risk": "high",
+          "plan": [
+            "Daily 15-min micro-lesson",
+            "Practice quiz every 3 days"
+          ],
+          "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+        }
+      },
+      {
+        "payload": {
+          "domain": "learning",
+          "risk": "high",
+          "plan": [
+            "Daily 15-min micro-lesson",
+            "Practice quiz every 3 days"
+          ],
+          "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+        }
+      },
+      {
+        "payload": {
+          "domain": "learning",
+          "risk": "high",
+          "plan": [
+            "Daily 15-min micro-lesson",
+            "Practice quiz every 3 days"
+          ],
+          "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+        }
+      },
+      {
+        "payload": {
+          "domain": "learning",
+          "risk": "high",
+          "plan": [
+            "Daily 15-min micro-lesson",
+            "Practice quiz every 3 days"
+          ],
+          "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+        }
+      },
+      {
+        "payload": {
+          "domain": "learning",
+          "risk": "high",
+          "plan": [
+            "Daily 15-min micro-lesson",
+            "Practice quiz every 3 days"
+          ],
+          "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+        }
+      },
+      {
+        "payload": {
+          "domain": "learning",
+          "risk": "high",
+          "plan": [
+            "Daily 15-min micro-lesson",
+            "Practice quiz every 3 days"
+          ],
+          "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+        }
+      },
+      {
+        "payload": {
+          "domain": "learning",
+          "risk": "high",
+          "plan": [
+            "Daily 15-min micro-lesson",
+            "Practice quiz every 3 days"
+          ],
+          "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+        }
+      },
+      {
+        "payload": {
+          "domain": "learning",
+          "risk": "high",
+          "plan": [
+            "Daily 15-min micro-lesson",
+            "Practice quiz every 3 days"
+          ],
+          "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+        }
+      },
+      {
+        "payload": {
+          "domain": "learning",
+          "risk": "high",
+          "plan": [
+            "Daily 15-min micro-lesson",
+            "Practice quiz every 3 days"
+          ],
+          "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+        }
+      },
+      {
+        "payload": {
+          "domain": "learning",
+          "risk": "high",
+          "plan": [
+            "Daily 15-min micro-lesson",
+            "Practice quiz every 3 days"
+          ],
+          "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+        }
+      },
+      {
+        "payload": {
+          "domain": "learning",
+          "risk": "high",
+          "plan": [
+            "Daily 15-min micro-lesson",
+            "Practice quiz every 3 days"
+          ],
+          "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+        }
+      },
+      {
+        "payload": {
+          "domain": "learning",
+          "risk": "high",
+          "plan": [
+            "Daily 15-min micro-lesson",
+            "Practice quiz every 3 days"
+          ],
+          "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+        }
+      },
+      {
+        "payload": {
+          "domain": "learning",
+          "risk": "high",
+          "plan": [
+            "Daily 15-min micro-lesson",
+            "Practice quiz every 3 days"
+          ],
+          "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+        }
+      },
+      {
+        "payload": {
+          "domain": "learning",
+          "risk": "high",
+          "plan": [
+            "Daily 15-min micro-lesson",
+            "Practice quiz every 3 days"
+          ],
+          "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+        }
+      },
+      {
+        "payload": {
+          "domain": "learning",
+          "risk": "high",
+          "plan": [
+            "Daily 15-min micro-lesson",
+            "Practice quiz every 3 days"
+          ],
+          "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+        }
+      }
+    ],
+    "productivity": [
+      {
+        "payload": {
+          "domain": "productivity",
+          "scheduled": {
+            "status": "ok",
+            "event": {
+              "user": "user001",
+              "title": "study 30 min",
+              "start": "TBD",
+              "duration": 30
+            }
+          },
+          "message": "Scheduled: study 30 min"
+        }
+      },
+      {
+        "payload": {
+          "domain": "productivity",
+          "scheduled": {
+            "status": "ok",
+            "event": {
+              "user": "user001",
+              "title": "study 30 min",
+              "start": "TBD",
+              "duration": 30
+            }
+          },
+          "message": "Scheduled: study 30 min"
+        }
+      },
+      {
+        "payload": {
+          "domain": "productivity",
+          "scheduled": {
+            "status": "ok",
+            "event": {
+              "user": "user001",
+              "title": "study 30 min",
+              "start": "TBD",
+              "duration": 30
+            }
+          },
+          "message": "Scheduled: study 30 min"
+        }
+      },
+      {
+        "payload": {
+          "domain": "productivity",
+          "scheduled": {
+            "status": "ok",
+            "event": {
+              "user": "user001",
+              "title": "study 30 min",
+              "start": "TBD",
+              "duration": 30
+            }
+          },
+          "message": "Scheduled: study 30 min"
+        }
+      },
+      {
+        "payload": {
+          "domain": "productivity",
+          "scheduled": {
+            "status": "ok",
+            "event": {
+              "user": "user001",
+              "title": "study 30 min",
+              "start": "TBD",
+              "duration": 30
+            }
+          },
+          "message": "Scheduled: study 30 min"
+        }
+      },
+      {
+        "payload": {
+          "domain": "productivity",
+          "scheduled": {
+            "status": "ok",
+            "event": {
+              "user": "user001",
+              "title": "study 30 min",
+              "start": "TBD",
+              "duration": 30
+            }
+          },
+          "message": "Scheduled: study 30 min"
+        }
+      },
+      {
+        "payload": {
+          "domain": "productivity",
+          "scheduled": {
+            "status": "ok",
+            "event": {
+              "user": "user001",
+              "title": "study 30 min",
+              "start": "TBD",
+              "duration": 30
+            }
+          },
+          "message": "Scheduled: study 30 min"
+        }
+      },
+      {
+        "payload": {
+          "domain": "productivity",
+          "scheduled": {
+            "status": "ok",
+            "event": {
+              "user": "user001",
+              "title": "study 30 min",
+              "start": "TBD",
+              "duration": 30
+            }
+          },
+          "message": "Scheduled: study 30 min"
+        }
+      },
+      {
+        "payload": {
+          "domain": "productivity",
+          "scheduled": {
+            "status": "ok",
+            "event": {
+              "user": "user001",
+              "title": "study 30 min",
+              "start": "TBD",
+              "duration": 30
+            }
+          },
+          "message": "Scheduled: study 30 min"
+        }
+      },
+      {
+        "payload": {
+          "domain": "productivity",
+          "scheduled": {
+            "status": "ok",
+            "event": {
+              "user": "user001",
+              "title": "study 30 min",
+              "start": "TBD",
+              "duration": 30
+            }
+          },
+          "message": "Scheduled: study 30 min"
+        }
+      },
+      {
+        "payload": {
+          "domain": "productivity",
+          "scheduled": {
+            "status": "ok",
+            "event": {
+              "user": "user001",
+              "title": "study 30 min",
+              "start": "TBD",
+              "duration": 30
+            }
+          },
+          "message": "Scheduled: study 30 min"
+        }
+      },
+      {
+        "payload": {
+          "domain": "productivity",
+          "scheduled": {
+            "status": "ok",
+            "event": {
+              "user": "user001",
+              "title": "study 30 min",
+              "start": "TBD",
+              "duration": 30
+            }
+          },
+          "message": "Scheduled: study 30 min"
+        }
+      },
+      {
+        "payload": {
+          "domain": "productivity",
+          "scheduled": {
+            "status": "ok",
+            "event": {
+              "user": "user001",
+              "title": "study 30 min",
+              "start": "TBD",
+              "duration": 30
+            }
+          },
+          "message": "Scheduled: study 30 min"
+        }
+      },
+      {
+        "payload": {
+          "domain": "productivity",
+          "scheduled": {
+            "status": "ok",
+            "event": {
+              "user": "user001",
+              "title": "study 30 min",
+              "start": "TBD",
+              "duration": 30
+            }
+          },
+          "message": "Scheduled: study 30 min"
+        }
+      },
+      {
+        "payload": {
+          "domain": "productivity",
+          "scheduled": {
+            "status": "ok",
+            "event": {
+              "user": "user001",
+              "title": "study 30 min",
+              "start": "TBD",
+              "duration": 30
+            }
+          },
+          "message": "Scheduled: study 30 min"
+        }
+      },
+      {
+        "payload": {
+          "domain": "productivity",
+          "scheduled": {
+            "status": "ok",
+            "event": {
+              "user": "user001",
+              "title": "study 30 min",
+              "start": "TBD",
+              "duration": 30
+            }
+          },
+          "message": "Scheduled: study 30 min"
+        }
+      },
+      {
+        "payload": {
+          "domain": "productivity",
+          "scheduled": {
+            "status": "ok",
+            "event": {
+              "user": "user001",
+              "title": "study 30 min",
+              "start": "TBD",
+              "duration": 30
+            }
+          },
+          "message": "Scheduled: study 30 min"
+        }
+      },
+      {
+        "payload": {
+          "domain": "productivity",
+          "scheduled": {
+            "status": "ok",
+            "event": {
+              "user": "user001",
+              "title": "study 30 min",
+              "start": "TBD",
+              "duration": 30
+            }
+          },
+          "message": "Scheduled: study 30 min"
+        }
+      },
+      {
+        "payload": {
+          "domain": "productivity",
+          "scheduled": {
+            "status": "ok",
+            "event": {
+              "user": "user001",
+              "title": "study 30 min",
+              "start": "TBD",
+              "duration": 30
+            }
+          },
+          "message": "Scheduled: study 30 min"
+        }
+      },
+      {
+        "payload": {
+          "domain": "productivity",
+          "scheduled": {
+            "status": "ok",
+            "event": {
+              "user": "user001",
+              "title": "study 30 min",
+              "start": "TBD",
+              "duration": 30
+            }
+          },
+          "message": "Scheduled: study 30 min"
+        }
+      },
+      {
+        "payload": {
+          "domain": "productivity",
+          "scheduled": {
+            "status": "ok",
+            "event": {
+              "user": "user001",
+              "title": "study 30 min",
+              "start": "TBD",
+              "duration": 30
+            }
+          },
+          "message": "Scheduled: study 30 min"
+        }
+      },
+      {
+        "payload": {
+          "domain": "productivity",
+          "scheduled": {
+            "status": "ok",
+            "event": {
+              "user": "user001",
+              "title": "study 30 min",
+              "start": "TBD",
+              "duration": 30
+            }
+          },
+          "message": "Scheduled: study 30 min"
+        }
+      },
+      {
+        "payload": {
+          "domain": "productivity",
+          "scheduled": {
+            "status": "ok",
+            "event": {
+              "user": "user001",
+              "title": "study 30 min",
+              "start": "TBD",
+              "duration": 30
+            }
+          },
+          "message": "Scheduled: study 30 min"
+        }
+      },
+      {
+        "payload": {
+          "domain": "productivity",
+          "scheduled": {
+            "status": "ok",
+            "event": {
+              "user": "user001",
+              "title": "study 30 min",
+              "start": "TBD",
+              "duration": 30
+            }
+          },
+          "message": "Scheduled: study 30 min"
+        }
+      },
+      {
+        "payload": {
+          "domain": "productivity",
+          "scheduled": {
+            "status": "ok",
+            "event": {
+              "user": "user001",
+              "title": "study 30 min",
+              "start": "TBD",
+              "duration": 30
+            }
+          },
+          "message": "Scheduled: study 30 min"
+        }
+      },
+      {
+        "payload": {
+          "domain": "productivity",
+          "scheduled": {
+            "status": "ok",
+            "event": {
+              "user": "user001",
+              "title": "study 30 min",
+              "start": "TBD",
+              "duration": 30
+            }
+          },
+          "message": "Scheduled: study 30 min"
+        }
+      },
+      {
+        "payload": {
+          "domain": "productivity",
+          "scheduled": {
+            "status": "ok",
+            "event": {
+              "user": "user001",
+              "title": "study 30 min",
+              "start": "TBD",
+              "duration": 30
+            }
+          },
+          "message": "Scheduled: study 30 min"
+        }
+      }
+    ],
+    "email_sent": [
+      {
+        "payload": {
+          "to": "user@example.com",
+          "subject": "AI Life OS \u2014 Recommended Actions"
+        }
+      },
+      {
+        "payload": {
+          "to": "user@example.com",
+          "subject": "AI Life OS \u2014 Recommended Actions"
+        }
+      },
+      {
+        "payload": {
+          "to": "user@example.com",
+          "subject": "AI Life OS \u2014 Recommended Actions"
+        }
+      },
+      {
+        "payload": {
+          "to": "user@example.com",
+          "subject": "AI Life OS \u2014 Recommended Actions"
+        }
+      },
+      {
+        "payload": {
+          "to": "user@example.com",
+          "subject": "AI Life OS \u2014 Recommended Actions"
+        }
+      },
+      {
+        "payload": {
+          "to": "user@example.com",
+          "subject": "AI Life OS \u2014 Recommended Actions"
+        }
+      },
+      {
+        "payload": {
+          "to": "user@example.com",
+          "subject": "AI Life OS \u2014 Recommended Actions"
+        }
+      },
+      {
+        "payload": {
+          "to": "user@example.com",
+          "subject": "AI Life OS \u2014 Recommended Actions"
+        }
+      },
+      {
+        "payload": {
+          "to": "user@example.com",
+          "subject": "AI Life OS \u2014 Recommended Actions"
+        }
+      },
+      {
+        "payload": {
+          "to": "user@example.com",
+          "subject": "AI Life OS \u2014 Recommended Actions"
+        }
+      },
+      {
+        "payload": {
+          "to": "user@example.com",
+          "subject": "AI Life OS \u2014 Recommended Actions"
+        }
+      },
+      {
+        "payload": {
+          "to": "user@example.com",
+          "subject": "AI Life OS \u2014 Recommended Actions"
+        }
+      },
+      {
+        "payload": {
+          "to": "user@example.com",
+          "subject": "AI Life OS \u2014 Recommended Actions"
+        }
+      },
+      {
+        "payload": {
+          "to": "user@example.com",
+          "subject": "AI Life OS \u2014 Recommended Actions"
+        }
+      },
+      {
+        "payload": {
+          "to": "user@example.com",
+          "subject": "AI Life OS \u2014 Recommended Actions"
+        }
+      },
+      {
+        "payload": {
+          "to": "user@example.com",
+          "subject": "AI Life OS \u2014 Recommended Actions"
+        }
+      },
+      {
+        "payload": {
+          "to": "user@example.com",
+          "subject": "AI Life OS \u2014 Recommended Actions"
+        }
+      },
+      {
+        "payload": {
+          "to": "user@example.com",
+          "subject": "AI Life OS \u2014 Recommended Actions"
+        }
+      },
+      {
+        "payload": {
+          "to": "user@example.com",
+          "subject": "AI Life OS \u2014 Recommended Actions"
+        }
+      },
+      {
+        "payload": {
+          "to": "user@example.com",
+          "subject": "AI Life OS \u2014 Recommended Actions"
+        }
+      },
+      {
+        "payload": {
+          "to": "user@example.com",
+          "subject": "AI Life OS \u2014 Recommended Actions"
+        }
+      },
+      {
+        "payload": {
+          "to": "user@example.com",
+          "subject": "AI Life OS \u2014 Recommended Actions"
+        }
+      },
+      {
+        "payload": {
+          "to": "user@example.com",
+          "subject": "AI Life OS \u2014 Recommended Actions"
+        }
+      },
+      {
+        "payload": {
+          "to": "user@example.com",
+          "subject": "AI Life OS \u2014 Recommended Actions"
+        }
+      },
+      {
+        "payload": {
+          "to": "user@example.com",
+          "subject": "AI Life OS \u2014 Recommended Actions"
+        }
+      },
+      {
+        "payload": {
+          "to": "user@example.com",
+          "subject": "AI Life OS \u2014 Recommended Actions"
+        }
+      },
+      {
+        "payload": {
+          "to": "user@example.com",
+          "subject": "AI Life OS \u2014 Recommended Actions"
+        }
+      }
+    ],
+    "daily_summary": [
+      {
+        "payload": {
+          "health": {
+            "domain": "health",
+            "risk": "high",
+            "plan": [
+              "Walk 20 minutes daily",
+              "Follow a sleep-winddown routine",
+              "Track sleep for 2 weeks"
+            ],
+            "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+          },
+          "finance": {
+            "domain": "finance",
+            "total": 30000,
+            "alert": null,
+            "plan": [
+              "No urgent action",
+              "Review subscriptions monthly"
+            ],
+            "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+          },
+          "learning": {
+            "domain": "learning",
+            "risk": "high",
+            "plan": [
+              "Daily 15-min micro-lesson",
+              "Practice quiz every 3 days"
+            ],
+            "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+          },
+          "productivity": {
+            "domain": "productivity",
+            "scheduled": {
+              "status": "ok",
+              "event": {
+                "user": "user001",
+                "title": "study 30 min",
+                "start": "TBD",
+                "duration": 30
+              }
+            },
+            "message": "Scheduled: study 30 min"
+          }
+        }
+      },
+      {
+        "payload": {
+          "health": {
+            "domain": "health",
+            "risk": "high",
+            "plan": [
+              "Walk 20 minutes daily",
+              "Follow a sleep-winddown routine",
+              "Track sleep for 2 weeks"
+            ],
+            "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+          },
+          "finance": {
+            "domain": "finance",
+            "total": 30000,
+            "alert": null,
+            "plan": [
+              "No urgent action",
+              "Review subscriptions monthly"
+            ],
+            "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+          },
+          "learning": {
+            "domain": "learning",
+            "risk": "high",
+            "plan": [
+              "Daily 15-min micro-lesson",
+              "Practice quiz every 3 days"
+            ],
+            "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+          },
+          "productivity": {
+            "domain": "productivity",
+            "scheduled": {
+              "status": "ok",
+              "event": {
+                "user": "user001",
+                "title": "study 30 min",
+                "start": "TBD",
+                "duration": 30
+              }
+            },
+            "message": "Scheduled: study 30 min"
+          }
+        }
+      },
+      {
+        "payload": {
+          "health": {
+            "domain": "health",
+            "risk": "high",
+            "plan": [
+              "Walk 20 minutes daily",
+              "Follow a sleep-winddown routine",
+              "Track sleep for 2 weeks"
+            ],
+            "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+          },
+          "finance": {
+            "domain": "finance",
+            "total": 30000,
+            "alert": null,
+            "plan": [
+              "No urgent action",
+              "Review subscriptions monthly"
+            ],
+            "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+          },
+          "learning": {
+            "domain": "learning",
+            "risk": "high",
+            "plan": [
+              "Daily 15-min micro-lesson",
+              "Practice quiz every 3 days"
+            ],
+            "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+          },
+          "productivity": {
+            "domain": "productivity",
+            "scheduled": {
+              "status": "ok",
+              "event": {
+                "user": "user001",
+                "title": "study 30 min",
+                "start": "TBD",
+                "duration": 30
+              }
+            },
+            "message": "Scheduled: study 30 min"
+          }
+        }
+      },
+      {
+        "payload": {
+          "health": {
+            "domain": "health",
+            "risk": "high",
+            "plan": [
+              "Walk 20 minutes daily",
+              "Follow a sleep-winddown routine",
+              "Track sleep for 2 weeks"
+            ],
+            "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+          },
+          "finance": {
+            "domain": "finance",
+            "total": 30000,
+            "alert": null,
+            "plan": [
+              "No urgent action",
+              "Review subscriptions monthly"
+            ],
+            "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+          },
+          "learning": {
+            "domain": "learning",
+            "risk": "high",
+            "plan": [
+              "Daily 15-min micro-lesson",
+              "Practice quiz every 3 days"
+            ],
+            "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+          },
+          "productivity": {
+            "domain": "productivity",
+            "scheduled": {
+              "status": "ok",
+              "event": {
+                "user": "user001",
+                "title": "study 30 min",
+                "start": "TBD",
+                "duration": 30
+              }
+            },
+            "message": "Scheduled: study 30 min"
+          }
+        }
+      },
+      {
+        "payload": {
+          "health": {
+            "domain": "health",
+            "risk": "high",
+            "plan": [
+              "Walk 20 minutes daily",
+              "Follow a sleep-winddown routine",
+              "Track sleep for 2 weeks"
+            ],
+            "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+          },
+          "finance": {
+            "domain": "finance",
+            "total": 30000,
+            "alert": null,
+            "plan": [
+              "No urgent action",
+              "Review subscriptions monthly"
+            ],
+            "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+          },
+          "learning": {
+            "domain": "learning",
+            "risk": "high",
+            "plan": [
+              "Daily 15-min micro-lesson",
+              "Practice quiz every 3 days"
+            ],
+            "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+          },
+          "productivity": {
+            "domain": "productivity",
+            "scheduled": {
+              "status": "ok",
+              "event": {
+                "user": "user001",
+                "title": "study 30 min",
+                "start": "TBD",
+                "duration": 30
+              }
+            },
+            "message": "Scheduled: study 30 min"
+          }
+        }
+      },
+      {
+        "payload": {
+          "health": {
+            "domain": "health",
+            "risk": "high",
+            "plan": [
+              "Walk 20 minutes daily",
+              "Follow a sleep-winddown routine",
+              "Track sleep for 2 weeks"
+            ],
+            "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+          },
+          "finance": {
+            "domain": "finance",
+            "total": 30000,
+            "alert": null,
+            "plan": [
+              "No urgent action",
+              "Review subscriptions monthly"
+            ],
+            "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+          },
+          "learning": {
+            "domain": "learning",
+            "risk": "high",
+            "plan": [
+              "Daily 15-min micro-lesson",
+              "Practice quiz every 3 days"
+            ],
+            "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+          },
+          "productivity": {
+            "domain": "productivity",
+            "scheduled": {
+              "status": "ok",
+              "event": {
+                "user": "user001",
+                "title": "study 30 min",
+                "start": "TBD",
+                "duration": 30
+              }
+            },
+            "message": "Scheduled: study 30 min"
+          }
+        }
+      },
+      {
+        "payload": {
+          "health": {
+            "domain": "health",
+            "risk": "high",
+            "plan": [
+              "Walk 20 minutes daily",
+              "Follow a sleep-winddown routine",
+              "Track sleep for 2 weeks"
+            ],
+            "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+          },
+          "finance": {
+            "domain": "finance",
+            "total": 30000,
+            "alert": null,
+            "plan": [
+              "No urgent action",
+              "Review subscriptions monthly"
+            ],
+            "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+          },
+          "learning": {
+            "domain": "learning",
+            "risk": "high",
+            "plan": [
+              "Daily 15-min micro-lesson",
+              "Practice quiz every 3 days"
+            ],
+            "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+          },
+          "productivity": {
+            "domain": "productivity",
+            "scheduled": {
+              "status": "ok",
+              "event": {
+                "user": "user001",
+                "title": "study 30 min",
+                "start": "TBD",
+                "duration": 30
+              }
+            },
+            "message": "Scheduled: study 30 min"
+          }
+        }
+      },
+      {
+        "payload": {
+          "health": {
+            "domain": "health",
+            "risk": "high",
+            "plan": [
+              "Walk 20 minutes daily",
+              "Follow a sleep-winddown routine",
+              "Track sleep for 2 weeks"
+            ],
+            "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+          },
+          "finance": {
+            "domain": "finance",
+            "total": 30000,
+            "alert": null,
+            "plan": [
+              "No urgent action",
+              "Review subscriptions monthly"
+            ],
+            "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+          },
+          "learning": {
+            "domain": "learning",
+            "risk": "high",
+            "plan": [
+              "Daily 15-min micro-lesson",
+              "Practice quiz every 3 days"
+            ],
+            "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+          },
+          "productivity": {
+            "domain": "productivity",
+            "scheduled": {
+              "status": "ok",
+              "event": {
+                "user": "user001",
+                "title": "study 30 min",
+                "start": "TBD",
+                "duration": 30
+              }
+            },
+            "message": "Scheduled: study 30 min"
+          }
+        }
+      },
+      {
+        "payload": {
+          "health": {
+            "domain": "health",
+            "risk": "high",
+            "plan": [
+              "Walk 20 minutes daily",
+              "Follow a sleep-winddown routine",
+              "Track sleep for 2 weeks"
+            ],
+            "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+          },
+          "finance": {
+            "domain": "finance",
+            "total": 30000,
+            "alert": null,
+            "plan": [
+              "No urgent action",
+              "Review subscriptions monthly"
+            ],
+            "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+          },
+          "learning": {
+            "domain": "learning",
+            "risk": "high",
+            "plan": [
+              "Daily 15-min micro-lesson",
+              "Practice quiz every 3 days"
+            ],
+            "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+          },
+          "productivity": {
+            "domain": "productivity",
+            "scheduled": {
+              "status": "ok",
+              "event": {
+                "user": "user001",
+                "title": "study 30 min",
+                "start": "TBD",
+                "duration": 30
+              }
+            },
+            "message": "Scheduled: study 30 min"
+          }
+        }
+      },
+      {
+        "payload": {
+          "health": {
+            "domain": "health",
+            "risk": "high",
+            "plan": [
+              "Walk 20 minutes daily",
+              "Follow a sleep-winddown routine",
+              "Track sleep for 2 weeks"
+            ],
+            "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+          },
+          "finance": {
+            "domain": "finance",
+            "total": 30000,
+            "alert": null,
+            "plan": [
+              "No urgent action",
+              "Review subscriptions monthly"
+            ],
+            "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+          },
+          "learning": {
+            "domain": "learning",
+            "risk": "high",
+            "plan": [
+              "Daily 15-min micro-lesson",
+              "Practice quiz every 3 days"
+            ],
+            "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+          },
+          "productivity": {
+            "domain": "productivity",
+            "scheduled": {
+              "status": "ok",
+              "event": {
+                "user": "user001",
+                "title": "study 30 min",
+                "start": "TBD",
+                "duration": 30
+              }
+            },
+            "message": "Scheduled: study 30 min"
+          }
+        }
+      },
+      {
+        "payload": {
+          "health": {
+            "domain": "health",
+            "risk": "high",
+            "plan": [
+              "Walk 20 minutes daily",
+              "Follow a sleep-winddown routine",
+              "Track sleep for 2 weeks"
+            ],
+            "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+          },
+          "finance": {
+            "domain": "finance",
+            "total": 30000,
+            "alert": null,
+            "plan": [
+              "No urgent action",
+              "Review subscriptions monthly"
+            ],
+            "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+          },
+          "learning": {
+            "domain": "learning",
+            "risk": "high",
+            "plan": [
+              "Daily 15-min micro-lesson",
+              "Practice quiz every 3 days"
+            ],
+            "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+          },
+          "productivity": {
+            "domain": "productivity",
+            "scheduled": {
+              "status": "ok",
+              "event": {
+                "user": "user001",
+                "title": "study 30 min",
+                "start": "TBD",
+                "duration": 30
+              }
+            },
+            "message": "Scheduled: study 30 min"
+          }
+        }
+      },
+      {
+        "payload": {
+          "health": {
+            "domain": "health",
+            "risk": "high",
+            "plan": [
+              "Walk 20 minutes daily",
+              "Follow a sleep-winddown routine",
+              "Track sleep for 2 weeks"
+            ],
+            "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+          },
+          "finance": {
+            "domain": "finance",
+            "total": 30000,
+            "alert": null,
+            "plan": [
+              "No urgent action",
+              "Review subscriptions monthly"
+            ],
+            "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+          },
+          "learning": {
+            "domain": "learning",
+            "risk": "high",
+            "plan": [
+              "Daily 15-min micro-lesson",
+              "Practice quiz every 3 days"
+            ],
+            "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+          },
+          "productivity": {
+            "domain": "productivity",
+            "scheduled": {
+              "status": "ok",
+              "event": {
+                "user": "user001",
+                "title": "study 30 min",
+                "start": "TBD",
+                "duration": 30
+              }
+            },
+            "message": "Scheduled: study 30 min"
+          }
+        }
+      },
+      {
+        "payload": {
+          "health": {
+            "domain": "health",
+            "risk": "high",
+            "plan": [
+              "Walk 20 minutes daily",
+              "Follow a sleep-winddown routine",
+              "Track sleep for 2 weeks"
+            ],
+            "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+          },
+          "finance": {
+            "domain": "finance",
+            "total": 30000,
+            "alert": null,
+            "plan": [
+              "No urgent action",
+              "Review subscriptions monthly"
+            ],
+            "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+          },
+          "learning": {
+            "domain": "learning",
+            "risk": "high",
+            "plan": [
+              "Daily 15-min micro-lesson",
+              "Practice quiz every 3 days"
+            ],
+            "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+          },
+          "productivity": {
+            "domain": "productivity",
+            "scheduled": {
+              "status": "ok",
+              "event": {
+                "user": "user001",
+                "title": "study 30 min",
+                "start": "TBD",
+                "duration": 30
+              }
+            },
+            "message": "Scheduled: study 30 min"
+          }
+        }
+      },
+      {
+        "payload": {
+          "health": {
+            "domain": "health",
+            "risk": "high",
+            "plan": [
+              "Walk 20 minutes daily",
+              "Follow a sleep-winddown routine",
+              "Track sleep for 2 weeks"
+            ],
+            "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+          },
+          "finance": {
+            "domain": "finance",
+            "total": 30000,
+            "alert": null,
+            "plan": [
+              "No urgent action",
+              "Review subscriptions monthly"
+            ],
+            "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+          },
+          "learning": {
+            "domain": "learning",
+            "risk": "high",
+            "plan": [
+              "Daily 15-min micro-lesson",
+              "Practice quiz every 3 days"
+            ],
+            "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+          },
+          "productivity": {
+            "domain": "productivity",
+            "scheduled": {
+              "status": "ok",
+              "event": {
+                "user": "user001",
+                "title": "study 30 min",
+                "start": "TBD",
+                "duration": 30
+              }
+            },
+            "message": "Scheduled: study 30 min"
+          }
+        }
+      },
+      {
+        "payload": {
+          "health": {
+            "domain": "health",
+            "risk": "high",
+            "plan": [
+              "Walk 20 minutes daily",
+              "Follow a sleep-winddown routine",
+              "Track sleep for 2 weeks"
+            ],
+            "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+          },
+          "finance": {
+            "domain": "finance",
+            "total": 0,
+            "alert": null,
+            "plan": [
+              "No urgent action",
+              "Review subscriptions monthly"
+            ],
+            "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+          },
+          "learning": {
+            "domain": "learning",
+            "risk": "high",
+            "plan": [
+              "Daily 15-min micro-lesson",
+              "Practice quiz every 3 days"
+            ],
+            "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+          },
+          "productivity": {
+            "domain": "productivity",
+            "scheduled": {
+              "status": "ok",
+              "event": {
+                "user": "user001",
+                "title": "study 30 min",
+                "start": "TBD",
+                "duration": 30
+              }
+            },
+            "message": "Scheduled: study 30 min"
+          }
+        }
+      },
+      {
+        "payload": {
+          "health": {
+            "domain": "health",
+            "risk": "high",
+            "plan": [
+              "Walk 20 minutes daily",
+              "Follow a sleep-winddown routine",
+              "Track sleep for 2 weeks"
+            ],
+            "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+          },
+          "finance": {
+            "domain": "finance",
+            "total": 30000,
+            "alert": null,
+            "plan": [
+              "No urgent action",
+              "Review subscriptions monthly"
+            ],
+            "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+          },
+          "learning": {
+            "domain": "learning",
+            "risk": "high",
+            "plan": [
+              "Daily 15-min micro-lesson",
+              "Practice quiz every 3 days"
+            ],
+            "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+          },
+          "productivity": {
+            "domain": "productivity",
+            "scheduled": {
+              "status": "ok",
+              "event": {
+                "user": "user001",
+                "title": "study 30 min",
+                "start": "TBD",
+                "duration": 30
+              }
+            },
+            "message": "Scheduled: study 30 min"
+          }
+        }
+      },
+      {
+        "payload": {
+          "health": {
+            "domain": "health",
+            "risk": "high",
+            "plan": [
+              "Walk 20 minutes daily",
+              "Follow a sleep-winddown routine",
+              "Track sleep for 2 weeks"
+            ],
+            "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+          },
+          "finance": {
+            "domain": "finance",
+            "total": 30000,
+            "alert": null,
+            "plan": [
+              "No urgent action",
+              "Review subscriptions monthly"
+            ],
+            "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+          },
+          "learning": {
+            "domain": "learning",
+            "risk": "high",
+            "plan": [
+              "Daily 15-min micro-lesson",
+              "Practice quiz every 3 days"
+            ],
+            "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+          },
+          "productivity": {
+            "domain": "productivity",
+            "scheduled": {
+              "status": "ok",
+              "event": {
+                "user": "user001",
+                "title": "study 30 min",
+                "start": "TBD",
+                "duration": 30
+              }
+            },
+            "message": "Scheduled: study 30 min"
+          }
+        }
+      },
+      {
+        "payload": {
+          "health": {
+            "domain": "health",
+            "risk": "high",
+            "plan": [
+              "Walk 20 minutes daily",
+              "Follow a sleep-winddown routine",
+              "Track sleep for 2 weeks"
+            ],
+            "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+          },
+          "finance": {
+            "domain": "finance",
+            "total": 20000,
+            "alert": null,
+            "plan": [
+              "No urgent action",
+              "Review subscriptions monthly"
+            ],
+            "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+          },
+          "learning": {
+            "domain": "learning",
+            "risk": "high",
+            "plan": [
+              "Daily 15-min micro-lesson",
+              "Practice quiz every 3 days"
+            ],
+            "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+          },
+          "productivity": {
+            "domain": "productivity",
+            "scheduled": {
+              "status": "ok",
+              "event": {
+                "user": "user001",
+                "title": "study 30 min",
+                "start": "TBD",
+                "duration": 30
+              }
+            },
+            "message": "Scheduled: study 30 min"
+          }
+        }
+      },
+      {
+        "payload": {
+          "health": {
+            "domain": "health",
+            "risk": "high",
+            "plan": [
+              "Walk 20 minutes daily",
+              "Follow a sleep-winddown routine",
+              "Track sleep for 2 weeks"
+            ],
+            "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+          },
+          "finance": {
+            "domain": "finance",
+            "total": 20000,
+            "alert": null,
+            "plan": [
+              "No urgent action",
+              "Review subscriptions monthly"
+            ],
+            "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+          },
+          "learning": {
+            "domain": "learning",
+            "risk": "high",
+            "plan": [
+              "Daily 15-min micro-lesson",
+              "Practice quiz every 3 days"
+            ],
+            "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+          },
+          "productivity": {
+            "domain": "productivity",
+            "scheduled": {
+              "status": "ok",
+              "event": {
+                "user": "user001",
+                "title": "study 30 min",
+                "start": "TBD",
+                "duration": 30
+              }
+            },
+            "message": "Scheduled: study 30 min"
+          }
+        }
+      },
+      {
+        "payload": {
+          "health": {
+            "domain": "health",
+            "risk": "high",
+            "plan": [
+              "Walk 20 minutes daily",
+              "Follow a sleep-winddown routine",
+              "Track sleep for 2 weeks"
+            ],
+            "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+          },
+          "finance": {
+            "domain": "finance",
+            "total": 0,
+            "alert": null,
+            "plan": [
+              "No urgent action",
+              "Review subscriptions monthly"
+            ],
+            "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+          },
+          "learning": {
+            "domain": "learning",
+            "risk": "high",
+            "plan": [
+              "Daily 15-min micro-lesson",
+              "Practice quiz every 3 days"
+            ],
+            "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+          },
+          "productivity": {
+            "domain": "productivity",
+            "scheduled": {
+              "status": "ok",
+              "event": {
+                "user": "user001",
+                "title": "study 30 min",
+                "start": "TBD",
+                "duration": 30
+              }
+            },
+            "message": "Scheduled: study 30 min"
+          }
+        }
+      },
+      {
+        "payload": {
+          "health": {
+            "domain": "health",
+            "risk": "high",
+            "plan": [
+              "Walk 20 minutes daily",
+              "Follow a sleep-winddown routine",
+              "Track sleep for 2 weeks"
+            ],
+            "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+          },
+          "finance": {
+            "domain": "finance",
+            "total": 40000,
+            "alert": null,
+            "plan": [
+              "No urgent action",
+              "Review subscriptions monthly"
+            ],
+            "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+          },
+          "learning": {
+            "domain": "learning",
+            "risk": "high",
+            "plan": [
+              "Daily 15-min micro-lesson",
+              "Practice quiz every 3 days"
+            ],
+            "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+          },
+          "productivity": {
+            "domain": "productivity",
+            "scheduled": {
+              "status": "ok",
+              "event": {
+                "user": "user001",
+                "title": "study 30 min",
+                "start": "TBD",
+                "duration": 30
+              }
+            },
+            "message": "Scheduled: study 30 min"
+          }
+        }
+      },
+      {
+        "payload": {
+          "health": {
+            "domain": "health",
+            "risk": "high",
+            "plan": [
+              "Walk 20 minutes daily",
+              "Follow a sleep-winddown routine",
+              "Track sleep for 2 weeks"
+            ],
+            "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+          },
+          "finance": {
+            "domain": "finance",
+            "total": 40000,
+            "alert": null,
+            "plan": [
+              "No urgent action",
+              "Review subscriptions monthly"
+            ],
+            "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+          },
+          "learning": {
+            "domain": "learning",
+            "risk": "high",
+            "plan": [
+              "Daily 15-min micro-lesson",
+              "Practice quiz every 3 days"
+            ],
+            "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+          },
+          "productivity": {
+            "domain": "productivity",
+            "scheduled": {
+              "status": "ok",
+              "event": {
+                "user": "user001",
+                "title": "study 30 min",
+                "start": "TBD",
+                "duration": 30
+              }
+            },
+            "message": "Scheduled: study 30 min"
+          }
+        }
+      },
+      {
+        "payload": {
+          "health": {
+            "domain": "health",
+            "risk": "high",
+            "plan": [
+              "Walk 20 minutes daily",
+              "Follow a sleep-winddown routine",
+              "Track sleep for 2 weeks"
+            ],
+            "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+          },
+          "finance": {
+            "domain": "finance",
+            "total": 25000,
+            "alert": null,
+            "plan": [
+              "No urgent action",
+              "Review subscriptions monthly"
+            ],
+            "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+          },
+          "learning": {
+            "domain": "learning",
+            "risk": "high",
+            "plan": [
+              "Daily 15-min micro-lesson",
+              "Practice quiz every 3 days"
+            ],
+            "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+          },
+          "productivity": {
+            "domain": "productivity",
+            "scheduled": {
+              "status": "ok",
+              "event": {
+                "user": "user001",
+                "title": "study 30 min",
+                "start": "TBD",
+                "duration": 30
+              }
+            },
+            "message": "Scheduled: study 30 min"
+          }
+        }
+      },
+      {
+        "payload": {
+          "health": {
+            "domain": "health",
+            "risk": "high",
+            "plan": [
+              "Walk 20 minutes daily",
+              "Follow a sleep-winddown routine",
+              "Track sleep for 2 weeks"
+            ],
+            "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+          },
+          "finance": {
+            "domain": "finance",
+            "total": 25000,
+            "alert": null,
+            "plan": [
+              "No urgent action",
+              "Review subscriptions monthly"
+            ],
+            "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+          },
+          "learning": {
+            "domain": "learning",
+            "risk": "high",
+            "plan": [
+              "Daily 15-min micro-lesson",
+              "Practice quiz every 3 days"
+            ],
+            "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+          },
+          "productivity": {
+            "domain": "productivity",
+            "scheduled": {
+              "status": "ok",
+              "event": {
+                "user": "user001",
+                "title": "study 30 min",
+                "start": "TBD",
+                "duration": 30
+              }
+            },
+            "message": "Scheduled: study 30 min"
+          }
+        }
+      },
+      {
+        "payload": {
+          "health": {
+            "domain": "health",
+            "risk": "high",
+            "plan": [
+              "Walk 20 minutes daily",
+              "Follow a sleep-winddown routine",
+              "Track sleep for 2 weeks"
+            ],
+            "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+          },
+          "finance": {
+            "domain": "finance",
+            "total": 40000,
+            "alert": null,
+            "plan": [
+              "No urgent action",
+              "Review subscriptions monthly"
+            ],
+            "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+          },
+          "learning": {
+            "domain": "learning",
+            "risk": "high",
+            "plan": [
+              "Daily 15-min micro-lesson",
+              "Practice quiz every 3 days"
+            ],
+            "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+          },
+          "productivity": {
+            "domain": "productivity",
+            "scheduled": {
+              "status": "ok",
+              "event": {
+                "user": "user001",
+                "title": "study 30 min",
+                "start": "TBD",
+                "duration": 30
+              }
+            },
+            "message": "Scheduled: study 30 min"
+          }
+        }
+      },
+      {
+        "payload": {
+          "health": {
+            "domain": "health",
+            "risk": "high",
+            "plan": [
+              "Walk 20 minutes daily",
+              "Follow a sleep-winddown routine",
+              "Track sleep for 2 weeks"
+            ],
+            "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+          },
+          "finance": {
+            "domain": "finance",
+            "total": 40000,
+            "alert": null,
+            "plan": [
+              "No urgent action",
+              "Review subscriptions monthly"
+            ],
+            "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+          },
+          "learning": {
+            "domain": "learning",
+            "risk": "high",
+            "plan": [
+              "Daily 15-min micro-lesson",
+              "Practice quiz every 3 days"
+            ],
+            "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+          },
+          "productivity": {
+            "domain": "productivity",
+            "scheduled": {
+              "status": "ok",
+              "event": {
+                "user": "user001",
+                "title": "study 30 min",
+                "start": "TBD",
+                "duration": 30
+              }
+            },
+            "message": "Scheduled: study 30 min"
+          }
+        }
+      },
+      {
+        "payload": {
+          "health": {
+            "domain": "health",
+            "risk": "high",
+            "plan": [
+              "Walk 20 minutes daily",
+              "Follow a sleep-winddown routine",
+              "Track sleep for 2 weeks"
+            ],
+            "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+          },
+          "finance": {
+            "domain": "finance",
+            "total": 40000,
+            "alert": null,
+            "plan": [
+              "No urgent action",
+              "Review subscriptions monthly"
+            ],
+            "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+          },
+          "learning": {
+            "domain": "learning",
+            "risk": "high",
+            "plan": [
+              "Daily 15-min micro-lesson",
+              "Practice quiz every 3 days"
+            ],
+            "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+          },
+          "productivity": {
+            "domain": "productivity",
+            "scheduled": {
+              "status": "ok",
+              "event": {
+                "user": "user001",
+                "title": "study 30 min",
+                "start": "TBD",
+                "duration": 30
+              }
+            },
+            "message": "Scheduled: study 30 min"
+          }
+        }
+      }
+    ]
+  },
+  "user_001": {
+    "health": [
+      {
+        "payload": {
+          "domain": "health",
+          "risk": "high",
+          "plan": [
+            "Walk 20 minutes daily",
+            "Follow a sleep-winddown routine",
+            "Track sleep for 2 weeks"
+          ],
+          "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+        }
+      }
+    ],
+    "finance": [
+      {
+        "payload": {
+          "domain": "finance",
+          "total": 20000,
+          "alert": null,
+          "plan": [
+            "No urgent action",
+            "Review subscriptions monthly"
+          ],
+          "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+        }
+      }
+    ],
+    "learning": [
+      {
+        "payload": {
+          "domain": "learning",
+          "risk": "high",
+          "plan": [
+            "Daily 15-min micro-lesson",
+            "Practice quiz every 3 days"
+          ],
+          "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+        }
+      }
+    ],
+    "productivity": [
+      {
+        "payload": {
+          "domain": "productivity",
+          "scheduled": {
+            "status": "ok",
+            "event": {
+              "user": "user_001",
+              "title": "email",
+              "start": "TBD",
+              "duration": 30
+            }
+          },
+          "message": "Scheduled: email"
+        }
+      }
+    ],
+    "email_sent": [
+      {
+        "payload": {
+          "to": "user@example.com",
+          "subject": "AI Life OS \u2014 Recommended Actions"
+        }
+      }
+    ],
+    "daily_summary": [
+      {
+        "payload": {
+          "health": {
+            "domain": "health",
+            "risk": "high",
+            "plan": [
+              "Walk 20 minutes daily",
+              "Follow a sleep-winddown routine",
+              "Track sleep for 2 weeks"
+            ],
+            "message": "Health plan: Walk 20 minutes daily \u2022 Follow a sleep-winddown routine \u2022 Track sleep for 2 weeks"
+          },
+          "finance": {
+            "domain": "finance",
+            "total": 20000,
+            "alert": null,
+            "plan": [
+              "No urgent action",
+              "Review subscriptions monthly"
+            ],
+            "message": "Finance plan: No urgent action \u2022 Review subscriptions monthly"
+          },
+          "learning": {
+            "domain": "learning",
+            "risk": "high",
+            "plan": [
+              "Daily 15-min micro-lesson",
+              "Practice quiz every 3 days"
+            ],
+            "message": "Learning plan: Daily 15-min micro-lesson \u2022 Practice quiz every 3 days"
+          },
+          "productivity": {
+            "domain": "productivity",
+            "scheduled": {
+              "status": "ok",
+              "event": {
+                "user": "user_001",
+                "title": "email",
+                "start": "TBD",
+                "duration": 30
+              }
+            },
+            "message": "Scheduled: email"
+          }
+        }
+      }
+    ]
+  }
+}
